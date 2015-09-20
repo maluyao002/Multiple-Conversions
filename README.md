@@ -22,4 +22,4 @@ java ConvServerThree 7777
 python ConvServerFour.py 8888  
 java ConvServerFive 9999  
 
-The proxy server can be set with any valid portnumber.
+The proxy server should be configured with portnumber 12345
